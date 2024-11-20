@@ -14,7 +14,7 @@ pip install image_processing_clahe
 ## Usage
 
 ```python
-from image_processing_clahe.algoritmo import process_image
+from image_processing_clahe.algoritmo import process_image, plot_img
 ```
 
 ## Author
