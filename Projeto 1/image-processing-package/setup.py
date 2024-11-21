@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_processing_clahe",
-    version="0.0.1",
+    version="0.0.2",
     author="lucenara_pereira",
     author_email="lucenarapereira@gmail.com",
     description="Algoritmo de processamento de imagens CLAHE (Contrast Limited Adaptive Histogram Equalization).",
